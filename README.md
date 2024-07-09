@@ -1,4 +1,4 @@
-# Research Investigation: Impact of JL Lemma Variations — Delhi, India
+# Research Investigation: Impact of JL Lemma Variations
 
 ## Advisor
 
