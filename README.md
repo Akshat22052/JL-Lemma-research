@@ -32,8 +32,8 @@ This project involves an in-depth investigation of the Johnson-Lindenstrauss (JL
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/JL-Lemma-Research.git
-    cd JL-Lemma-Research
+    git clone https://github.com/Akshat22052/JL-Lemma-research.git
+    cd JL-Lemma-research
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Repository
 
-You can find the GitHub repository for this project [here](https://github.com/your-username/JL-Lemma-Research).
+You can find the GitHub repository for this project [here](https://github.com/Akshat22052/JL-Lemma-research).
 
 ---
 
